@@ -1,0 +1,57 @@
+/**{
+    margin:0;
+    padding:0;
+    border: 1px solid red; 
+}*/
+
+.container-1{
+    width: 800px;
+    height:400px;
+    margin-top: 50px;
+    margin-left: 250px;
+    bottom: 80px; 
+    border:2px solid gray ;
+}
+
+h1 {
+    margin-left: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#margen-superior{
+    background-color: #17A2B8;
+    width: 800px;
+    height: 80px;
+}
+
+#circle{
+    width: 80px;
+    margin: 40px 20px;
+}
+
+#map-marker{
+    width: 20px;
+    margin-left: 20px;
+}
+
+#gear{
+    width: 25px;
+    margin-left: 20px;
+}
+
+.map-section{
+    display: inline;
+}
+
+p{
+    margin-left: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#city{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-family:Arial, Helvetica, sans-serif;
+}
